@@ -1,0 +1,23 @@
+
+
+.logo-img{
+  width: 30%;
+}
+
+img{
+  max-height: 129px;
+}
+
+.contenedor{
+
+}
+
+
+.input-group-label {
+background-color: #1779ba;
+border-color: #1779ba;
+color: white;
+}
+.input-group-field{
+  width: 30%;
+}
